@@ -63,5 +63,5 @@ public void displayList() {
         current = current.next;
         }
 System.out.println("null");
-    }
+  }
  }
